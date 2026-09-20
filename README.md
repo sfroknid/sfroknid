@@ -14,25 +14,43 @@ AI-focused Software Engineer and University Professor with expertise in Python, 
 ## 🔭 Currently Working On
 
 * Applied Artificial Intelligence and Machine Learning
-* Python-based software development
-* Computer Vision and Data Science
-* Reinforcement Learning and Intelligent Systems
+* Reinforcement Learning for Supply Chain Management
+* Intelligent Decision-Making and Supply Chain Disruption Management
+* Data Science and Python-based Software Development
 
 ## 🌱 Areas of Expertise
 
-* Python
-* Machine Learning & Deep Learning
-* Computer Vision
+* Python & Software Development
+* Artificial Intelligence & Machine Learning
 * Data Science
 * Reinforcement Learning
-* AI & Intelligent Systems
-* Software Development
+* Supply Chain Management & Optimization
+* Intelligent Decision-Making Systems
 
 ## 👩‍🏫 Teaching & Research
 
-University Professor with experience in teaching programming, artificial intelligence, Python, and computer science.
-Research interests include applied AI, machine learning, deep learning, and intelligent systems.
+PhD in Artificial Intelligence with a research focus on Reinforcement Learning and its applications in supply chain management, including intelligent decision-making, optimization, and disruption management.
 
-## 🚀 Projects
+I have around 8 years of experience in programming and have been teaching programming, artificial intelligence, databases, and related computer science topics at the university level for several years.
 
-Building practical AI and software solutions, educational platforms, automation systems, and research-oriented machine learning projects.
+My academic and research interests are mainly focused on applying AI and Reinforcement Learning to real-world problems, particularly in supply chain systems and decision-making under uncertainty.
+
+## 🎓 Academic & Educational Activities
+
+Alongside academic teaching and research, I develop practical programming and AI projects and provide educational content through my academy.
+
+You can explore my educational activities, courses, and programming content through my website and social media channels. You can also find examples of my teaching and students' work through the academy's online channels.
+
+Feel free to reach out via email or social media if you have questions about programming, artificial intelligence, data science, or research.
+
+## 🚀 Projects & Research
+
+My projects and research focus on developing practical AI-based solutions, with particular emphasis on:
+
+* Reinforcement Learning and Deep Reinforcement Learning
+* AI applications in Supply Chain Management
+* Supply Chain Disruption Management
+* Data Science and Machine Learning
+* Intelligent Optimization and Decision-Making
+* Python-based AI and software development
+
