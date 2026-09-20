@@ -27,15 +27,13 @@ AI-focused Software Engineer and University Professor with expertise in Python, 
 
 ## 👩‍🏫 Teaching & Research
 
-PhD in Artificial Intelligence with a research focus on Reinforcement Learning and its applications in supply chain management, including intelligent decision-making, optimization, and disruption management.
-I have around 8 years of experience in programming and have been teaching programming, artificial intelligence, databases, and related computer science topics at the university level for several years.
-My academic and research interests are mainly focused on applying AI and Reinforcement Learning to real-world problems, particularly in supply chain systems and decision-making under uncertainty.
+PhD researcher in Artificial Intelligence with a focus on Reinforcement Learning, Data Science, and AI-driven decision-making in supply chain management. Around 8 years of programming experience and extensive university teaching experience in programming, AI, databases, and related computer science subjects. Research interests include intelligent optimization, supply chain disruption management, and decision-making under uncertainty.
 
 ## 🎓 Academic & Educational Activities
 
-You can explore my educational activities, courses, and programming content through my website and social media channels. You can also find examples of my teaching and students' work through the academy's online channels.
+Through my academy, I provide practical courses and educational content in Python, Artificial Intelligence, Data Science, and programming. You can explore my courses, teaching materials, and students’ projects through the academy’s website and social media channels.
 
-Feel free to reach out via email or social media if you have questions about programming, artificial intelligence, data science, or research.
+For questions about programming, AI, data science, or research, feel free to connect with me via email or social media.
 
 ## 🚀 Projects & Research
 
@@ -43,7 +41,6 @@ My projects and research focus on developing practical AI-based solutions, with 
 * Reinforcement Learning and Deep Reinforcement Learning
 * AI applications in Supply Chain Management
 * Supply Chain Disruption Management
-* Data Science and Machine Learning
 * Intelligent Optimization and Decision-Making
 
 
