@@ -35,12 +35,5 @@ Through my academy, I provide practical courses and educational content in Pytho
 
 For questions about programming, AI, data science, or research, feel free to connect with me via email or social media.
 
-## 🚀 Projects & Research
-
-My projects and research focus on developing practical AI-based solutions, with particular emphasis on:
-* Reinforcement Learning and Deep Reinforcement Learning
-* AI applications in Supply Chain Management
-* Supply Chain Disruption Management
-* Intelligent Optimization and Decision-Making
 
 
